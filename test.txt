@@ -1,0 +1,63 @@
+int a = 2;
+int a1 = a;
+int a2=a1;
+float a0;
+char x;
+bool t;
+
+int functie1(char c, int v)
+
+int functie11(int a, int b)
+
+int functie2(float xy, float yz)
+
+newType MyType
+{
+    const int abcd=2;
+};
+
+int main()
+{
+
+    char functiedinmain()
+
+    int b=2;
+    float vector[100];
+    int matrice[50][50];
+    char text[50];
+    string test="Acesta este un string";
+
+    char d;
+    d=63;
+    int i;
+
+    a=5;
+    a++;
+    b += a;
+
+    b = (((a*10 + 4)* 2) - 3)/25;
+    Print("Valoarea lui b+a este: ", b+a);
+
+    while((b>2 && 5<=10) || (2==2))
+    {
+        a*=b;
+    }
+
+
+    if(a!=5)
+    {
+        
+        Print("Valoarea lui a este: ",a);
+    }
+    else
+    {
+        d/=d;
+    }
+    
+    for(i=0; i<100; i++)
+    {
+        a++;
+    }
+
+    functie11(1,2);
+}
