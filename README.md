@@ -22,9 +22,31 @@ This project is implemented using several technologies:
 
 - **(F)lex**: A tool for generating scanners: programs which recognized lexical patterns in text. (F)lex reads the given input files, or its standard input if no file names are given, for a description of a scanner to generate. [Official Documentation](https://ftp.gnu.org/old-gnu/Manuals/flex-2.5.4/html_mono/flex.html)
 
-## Usage
-Instructions on how to use the programming language, including syntax and examples, will be provided here.
+## Example Usage
+Here are some snippets of how to use this programming language:
 
+- **Variable Declaration and Initialization**:
+  ```c
+  int a = 2;
+  int a1 = a;
+  int a2=a1;
+  float a0;
+  char x;
+  bool t;
+
+- **Function Definition**:
+  ```c
+  int functie1(char c, int v)
+  int functie11(int a, int b)
+  int functie2(float xy, float yz)
+
+- **Custom Type Definition**:
+  ```c
+  newType MyType
+  {
+    const int abcd=2;
+  };
+  
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
