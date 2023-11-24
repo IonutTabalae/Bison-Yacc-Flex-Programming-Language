@@ -10,6 +10,8 @@ This project is a custom programming language developed using Bison, Yacc, and (
 - **Control Structures**: Includes control structures such as if-else, while, and for loops.
 - **Arrays**: Supports arrays for int, float, and char data types.
 - **Custom Types**: Allows defining new types with the 'newType' keyword.
+- **Variable Management**: The language can handle variable declaration, initialization, and assignment. It also supports constant variables.
+- **Error Handling**: The language includes error handling for variable declaration and assignment.
 
 ## Technologies
 This project is implemented using several technologies:
