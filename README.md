@@ -26,7 +26,5 @@ This project is implemented using several technologies:
 Instructions on how to use the programming language, including syntax and examples, will be provided here.
 
 ## License
-Information about the project's license will be provided here.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-For any questions or concerns, please contact us at email.
