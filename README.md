@@ -30,9 +30,12 @@ Here are some snippets of how to use this programming language:
   int a = 2;
   int a1 = a;
   int a2=a1;
+  int matrice[50][50];
+  float vector[100];
   float a0;
   char x;
   bool t;
+  string test="Acesta este un string";
 
 - **Function Definition**:
   ```c
