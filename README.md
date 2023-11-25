@@ -1,7 +1,7 @@
-# Bison-Yacc-Flex Programming Language
+# Bison-Yacc-Flex Programming Language: A Custom Compiler Construction Project
 
 ## Overview
-This project is a custom programming language developed using Bison, Yacc, and (F)lex. The language has a syntax similar to C and supports a variety of data types including int, float, char, bool, and string. It allows for complex operations and function definitions, and includes control structures such as if-else, while, and for loops. The language also supports arrays and matrices for int, float, and char data types, and allows for the definition of new types with the 'newType' keyword. Additionally, it can handle variable declaration, initialization, and assignment, and includes error handling for these operations.
+This project is a **custom programming language** developed using **Bison**, **Yacc**, and **(F)lex**. The language has a syntax similar to C and supports a variety of data types including int, float, char, bool, and string. It allows for complex operations and function definitions, and includes control structures such as if-else, while, and for loops. The language also supports arrays and matrices for int, float, and char data types, and allows for the definition of new types with the 'newType' keyword. Additionally, it can handle variable declaration, initialization, and assignment, and includes error handling for these operations.
 
 ## Features
 - **Data Types**: Supports int, float, char, bool, and string data types.
@@ -52,4 +52,3 @@ Here are some snippets of how to use this programming language:
   
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
